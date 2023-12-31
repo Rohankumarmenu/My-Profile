@@ -13,7 +13,7 @@ I'm a passionate [Software Developer] based in [Darbhanga,Biahr]. I enjoy [Codin
 - Description:A full-stack web app allows users to choose from almost 20+ types of questions and 3 difficulty levels.
 - Technologies Used: React JS, Firebase, Tailwind CSS.
 
-### [Yoga Pose Estimation and Detection]([Link to Project 2](https://github.com/Rohankumarmenu/yoga-pose-estimation)
+### [Yoga Pose Estimation and Detection](https://github.com/Rohankumarmenu/yoga-pose-estimation)
 - Description: This app facilitates the detection and precise estimation of a pose’s accuracy,integrated 10 yoga poses.
 - Technologies Used: JavaScript,PoseNet.
 - Demo: https://rohankumarmenu.github.io/yoga-pose-estimation/
