@@ -23,10 +23,7 @@ I'm a passionate [Software Developer] based in [Darbhanga,Biahr]. I enjoy [Codin
 - Portfolio: [Portfolio](https://rohankr.netlify.app/)
 
 ## Badges
-[![Holopin Badge 1](https://holopin.me/rohankumarmenu)](https://holopin.io/@rohankumarmenu)
-[![Holopin Badge 2](https://holopin.me/rohankumarmenu)](https://holopin.io/@rohankumarmenu)
-[![Holopin Badge 3](https://holopin.me/rohankumarmenu)](https://holopin.io/@rohankumarmenu)
-[![Holopin Badge 4](https://holopin.me/rohankumarmenu)](https://holopin.io/@rohankumarmenu)
+[![An image of @rohankumarmenu's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/rohankumarmenu)](https://holopin.io/@rohankumarmenu)
 
 Feel free to explore my repositories and contribute to any ongoing projects.
 
