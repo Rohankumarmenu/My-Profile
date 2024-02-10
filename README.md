@@ -1,7 +1,7 @@
 # Hello, I'm [Rohan Kumar] 👋
 
 ## About Me
-I'm a passionate [Software Developer] based in [Darbhanga,Biahr]. I enjoy [Coding and solving real life problems throuh it], and I'm always eager to learn and explore new technologies.
+I'm a passionate [Software Developer] based in [Darbhanga,Bihar]. I enjoy [Coding and solving real life problems throuh it], and I'm always eager to learn and explore new technologies.
 
 ## Skills
 - Programming Languages: [C++,JavaScript,Core Java,Python(Basic)]
